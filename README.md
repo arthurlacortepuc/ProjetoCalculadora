@@ -6,9 +6,9 @@ Este projeto é uma calculadora básica desenvolvida em C# para servir de exempl
 # Objetivo
 Esta oficina tem como objetivo ensinar conceitos fundamentais do GitHub, incluindo clonagem de repositórios, criação de branches, commit de alterações e publicação de código. Os alunos poderão entender como utilizar o GitHub para versionar e compartilhar seus próprios projetos.
 
-Funcionalidades
-*Adição
-*Subtração
-*Multiplicação
-*Divisão
+# Funcionalidades
+-Adição
+-Subtração
+-Multiplicação
+-Divisão
 
