@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bentley\\Documents\\Faculdade\\Computação\\Projeto de Extensão\\ProjetoCalculadora\\CalculadoraGitHub\\CalculadoraGitHub.csproj": {}
+    "C:\\Users\\Bentley\\Desktop\\Git e GitHub\\ProjetoCalculadora\\CalculadoraGitHub\\CalculadoraGitHub.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bentley\\Documents\\Faculdade\\Computação\\Projeto de Extensão\\ProjetoCalculadora\\CalculadoraGitHub\\CalculadoraGitHub.csproj": {
+    "C:\\Users\\Bentley\\Desktop\\Git e GitHub\\ProjetoCalculadora\\CalculadoraGitHub\\CalculadoraGitHub.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bentley\\Documents\\Faculdade\\Computação\\Projeto de Extensão\\ProjetoCalculadora\\CalculadoraGitHub\\CalculadoraGitHub.csproj",
+        "projectUniqueName": "C:\\Users\\Bentley\\Desktop\\Git e GitHub\\ProjetoCalculadora\\CalculadoraGitHub\\CalculadoraGitHub.csproj",
         "projectName": "CalculadoraGitHub",
-        "projectPath": "C:\\Users\\Bentley\\Documents\\Faculdade\\Computação\\Projeto de Extensão\\ProjetoCalculadora\\CalculadoraGitHub\\CalculadoraGitHub.csproj",
+        "projectPath": "C:\\Users\\Bentley\\Desktop\\Git e GitHub\\ProjetoCalculadora\\CalculadoraGitHub\\CalculadoraGitHub.csproj",
         "packagesPath": "C:\\Users\\Bentley\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bentley\\Documents\\Faculdade\\Computação\\Projeto de Extensão\\ProjetoCalculadora\\CalculadoraGitHub\\obj\\",
+        "outputPath": "C:\\Users\\Bentley\\Desktop\\Git e GitHub\\ProjetoCalculadora\\CalculadoraGitHub\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Bentley\\AppData\\Roaming\\NuGet\\NuGet.Config",

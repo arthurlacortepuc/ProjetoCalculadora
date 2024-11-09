@@ -41,7 +41,13 @@ class Project
             case 2:
                 resultado = num1 - num2;
                 break;
-            
+            case 3:
+                resultado = num1 * num2;
+                break;
+            case 4:
+                resultado = num1 / num2;
+                break;
+
         }
 
         //Saída
