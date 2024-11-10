@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CalculadoraGitHub")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d0ca47a227f5f550d2b3d3921adf0c7dd7f32487")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+32cd3acbc8173eaa62fe295814f482c819e01127")]
 [assembly: System.Reflection.AssemblyProductAttribute("CalculadoraGitHub")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CalculadoraGitHub")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
